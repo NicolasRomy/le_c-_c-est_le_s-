@@ -1,1 +1,5 @@
-# le_c-_c-est_le_s-
+# Introduction au C++
+
+- Eliot Cros
+- Nicolas Romy
+
