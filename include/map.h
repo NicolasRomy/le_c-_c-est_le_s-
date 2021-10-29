@@ -38,7 +38,7 @@ public:
 
 
         int random = rand() % armor.size();
-        return armor[random];
+        return ()
     }
 protected:
     salledef salledef;

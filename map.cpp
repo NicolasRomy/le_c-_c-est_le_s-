@@ -87,7 +87,7 @@ std::string carte::Stringinit(Character& character) {
         {
             for (int x = 0; x < SIZEX; x++)
             {
-                map[y][x].push_back(Salle::Armor_fill)
+                map[y][x].push_back(Salle::Armor_fill);
                 if (character.player_positionx == x && character.player_positiony == y)
 
                     string_stream << "\u001b[31mp\u001b[0m"  << " ";
